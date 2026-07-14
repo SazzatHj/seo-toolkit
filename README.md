@@ -5,14 +5,9 @@ A curated, comprehensive repository of free, freemium, and open-source SEO tools
 ---
 
 ## 📌 Table of Contents
-- [🔍 Keyword Research Tools](#-keyword-research-tools)
-- [✍️ On-Page SEO & Content Optimization](#%EF%B8%8F-on-page-seo--content-optimization)
-- [⚙️ Technical SEO & Crawling](#%EF%B8%8F-technical-seo--crawling)
-- [🔗 Link Building & Off-Page SEO](#-link-building--off-page-seo)
-- [📊 Analytics, Reporting & Tracking](#-analytics-reporting--tracking)
-- [✅ Actionable Checklists](#-actionable-checklists)
-- [🤝 Contributing](#-contributing)
-
+- [🛠️ All-in-One SEO Suites](./tools/technical-seo-tools.md)
+- [📝 WordPress SEO Plugins](./checklists/on-page-seo-checklist.md)
+- [✍️ Content Quality & AI Detection](./tools/content-quality-ai-tools.md)
 ---
 
 ## 🔍 Keyword Research Tools
