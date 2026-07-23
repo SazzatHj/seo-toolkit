@@ -71,7 +71,7 @@ Optimize your metadata and structural elements directly inside your CMS.
 *   **[Yoast SEO](https://yoast.com/) `[Freemium]`** 
     *   *Best For:* Managing basic sitemaps, on-page optimization, and structural meta tags on WordPress.
 *   **[All in One SEO (AIOSEO)](https://aioseo.com/) `[Freemium]`** 
-    *   *Best For:* Beginner-friendly SEO checklists and automated schema markups.
+    *   *Best For:* Beginner-friendly SEO checklists and automated schema markups. 
 *   **[Rank Math SEO](https://rankmath.com/) `[Freemium]`** 
     *   *Best For:* A fast, lightweight alternative featuring advanced schema automation for free.
 
