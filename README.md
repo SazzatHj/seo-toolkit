@@ -1,6 +1,6 @@
 # Ultimate SEO Toolkit
 
-A curated, one-stop registry of free, freemium, and open-source SEO tools, frameworks, editors, and checkers. No need to browse multiple files—everything you need is right here under one roof to master search engine optimization!
+A curated, one-stop registry of free, freemium, and open-source SEO tools, frameworks, editors, and checkers. No need to browse multiple files—everything you need is right here under one roof to master search engine optimization.
 
 ---
 
