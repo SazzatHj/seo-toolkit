@@ -44,17 +44,17 @@ Keep your copy clear, original, and optimized for human readers and search crawl
     *   *Best For:* Quick, handy daily tasks like counting words or checking backlink DA.
 
 *   **[CopyLeaks](https://copyleaks.com/ai-content-detector) `[Most Accurate & Popular]`**
-*   **Why It’s Great:** Widely recognized by professional bloggers and SEO specialists as one of the most accurate AI detectors. It provides precise sentence-level pattern flagging and analysis.
-*   **Live Editing Feature:** Highlights flagged AI sentences in red/yellow directly within the text editor. You can rewrite those specific lines in real-time and immediately re-scan to lower the AI score.
+    *   **Why It’s Great:** Widely recognized by professional bloggers and SEO specialists as one of the most accurate AI detectors. It provides precise sentence-level pattern flagging and analysis.
+    *   **Live Editing Feature:** Highlights flagged AI sentences in red/yellow directly within the text editor. You can rewrite those specific lines in real-time and immediately re-scan to lower the AI score.
 
 *   **[Undetectable AI](https://undetectable.ai) `[Detector + Auto-Humanizer]`**
-* **Why It’s Great:** Functions as a dual-purpose platform that both detects AI content and offers built-in one-click text humanization.
-* **Live Editing Feature:** Displays a real-time graph showing predicted scores across multiple major detectors (including GPTZero, CopyLeaks, Crossplag, and Sapling) simultaneously.
+    * **Why It’s Great:** Functions as a dual-purpose platform that both detects AI content and offers built-in one-click text humanization.
+    * **Live Editing Feature:** Displays a real-time graph showing predicted scores across multiple major detectors (including GPTZero, CopyLeaks, Crossplag, and Sapling) simultaneously.
 
 
 *   **[Originality.ai](https://originality.ai) `[Paid, Best for Professionals but Free trial available]`**
-*   **Why It’s Great:** Industry-standard tool for website flipping, publishing houses, and competitive SEO ranking analysis. It is known for having the strictest detection algorithm.
-*   **Live Editing Feature:** Color-codes every sentence with a specific human vs. AI percentage score (Green for Human-written, Red for AI-generated).
+    *   **Why It’s Great:** Industry-standard tool for website flipping, publishing houses, and competitive SEO ranking analysis. It is known for having the strictest detection algorithm.
+    *   **Live Editing Feature:** Color-codes every sentence with a specific human vs. AI percentage score (Green for Human-written, Red for AI-generated).
 
 ---
 
