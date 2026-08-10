@@ -36,10 +36,10 @@ Keep your copy clear, original, and optimized for human readers and search crawl
 
 *   **[ZeroGPT](https://www.zerogpt.com/) `[Free]`** 
     *   *Best For:* Detecting AI-generated text (ChatGPT, Claude, etc.) to maintain content originality.
-*   **[Hemingway App](https://hemingwayapp.com/) `[Free]`**  
-    *   *Best For:* Improving readability. It highlights complex sentences and passive voice. Aim for Grade 6 to 8.
 *   **[Duplichecker](https://www.duplichecker.com/) `[Free]`** 
     *   *Best For:* Scanning your text for plagiarism against millions of web pages before publishing.
+*   **[Hemingway App](https://hemingwayapp.com/) `[Free]`**  
+    *   *Best For:* Improving readability. It highlights complex sentences and passive voice. Aim for Grade 6 to 8.
 *   **[SmallSEOTools](https://smallseotools.com/) `[Free]`** 
     *   *Best For:* Quick, handy daily tasks like counting words or checking backlink DA.
 
